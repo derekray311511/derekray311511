@@ -11,7 +11,7 @@ About me
 👨‍🎓: I'm a graduate student at **National Yang Ming Chiao Tung University**.  
 🖥️: I’m currently learning about Autonomous Vehicle and Deep Learning.  
 💃: I like dancing with my friends!  
-🐦: Start coding in my first year in college. It's a little bit late, but Malcolm S.Forbes said, "It's never too late to learn something."  
+🐦: Start coding in my first year in college. It's a little bit late, but Malcolm S.Forbes said, "It's never too late to learn."  
 <br>
 
 Skills
