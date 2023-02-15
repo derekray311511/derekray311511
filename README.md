@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/88025855/218952858-4c907214-e309-43c0-b3c3-7fd4b5268a22.png](https://user-images.githubusercontent.com/84118285/218954840-6c7a19df-2991-4975-872a-4d1e2134118a.jpeg)" height="768px" width="768px"/>
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/84118285/218954840-6c7a19df-2991-4975-872a-4d1e2134118a.jpeg" height="400px" width="400px"/>
 </p>
 
 ### Hi:raised_hand_with_fingers_splayed: I'm Chih Yu.
@@ -8,10 +8,11 @@ You can also call me Derek.
 
 About me
 ---
-- 👨‍🎓: I'm a graduate student at **National Yang Ming Chiao Tung University**.
-- 🖥️: I’m currently learning about Autonomous Vehicle and Deep Learning.
-- 💃: I like dancing with my friends!
-- 🐦: Start coding in my first year in college. It's a little bit late, but someone said, "It's never to late to learn something."
+👨‍🎓: I'm a graduate student at **National Yang Ming Chiao Tung University**.  
+🖥️: I’m currently learning about Autonomous Vehicle and Deep Learning.  
+💃: I like dancing with my friends!  
+🐦: Start coding in my first year in college. It's a little bit late, but someone said, "It's never to late to learn something."  
+<br>
 
 Skills
 ---
